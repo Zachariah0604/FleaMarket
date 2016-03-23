@@ -1,0 +1,28 @@
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\FleaMarket.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\FleaMarket.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.dll
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\Maticsoft.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\FleaMarket.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\FleaMarket.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\Maticsoft.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.csprojResolveAssemblyReference.cache
+D:\Program Files\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\FleaMarket.dll
+D:\Program Files\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\FleaMarket.pdb
+D:\Program Files\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\bin\Maticsoft.Common.dll
+D:\Program Files\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.dll
+D:\Program Files\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.pdb
+D:\Program Files\Users\Administrator\Documents\Visual Studio 2010\Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.csprojResolveAssemblyReference.cache
+D:\肖罗霖\FleaMarket\FleaMarket\bin\FleaMarket.dll
+D:\肖罗霖\FleaMarket\FleaMarket\bin\FleaMarket.pdb
+D:\肖罗霖\FleaMarket\FleaMarket\obj\Debug\FleaMarket.dll
+D:\肖罗霖\FleaMarket\FleaMarket\obj\Debug\FleaMarket.pdb
+D:\Program Files\Vs Projects\FleaMarket\FleaMarket\bin\FleaMarket.dll.config
+D:\Program Files\Vs Projects\FleaMarket\FleaMarket\bin\FleaMarket.dll
+D:\Program Files\Vs Projects\FleaMarket\FleaMarket\bin\FleaMarket.pdb
+D:\Program Files\Vs Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.csprojResolveAssemblyReference.cache
+D:\Program Files\Vs Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.dll
+D:\Program Files\Vs Projects\FleaMarket\FleaMarket\obj\Debug\FleaMarket.pdb

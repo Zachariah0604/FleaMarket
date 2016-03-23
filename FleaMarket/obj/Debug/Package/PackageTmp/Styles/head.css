@@ -1,0 +1,32 @@
+﻿body{ font-family:微软雅黑; font-size:14px;}
+#content {} 
+#content a {text-decoration:none; color:#ff0000;} 
+#content a:hover{color:#257DC1;}
+#alert {z-index:1000;position:absolute;display:none;} 
+#alert span#close {font-weight:500;cursor:pointer;color:#fff;position:absolute; right:5px; top:2px;} 
+
+.header { background:#fff url(../images/header_bg.gif) repeat-x center 0px; }
+.header_resize { margin:10px auto; width:970px;}
+.menu_nav { margin:0; padding:10px 16px 16px 0; height:67px;}
+.menu_nav ul { list-style:none; height:67px; border-left:1px solid #fff; margin:auto;}
+.menu_nav ul li { margin:0; padding:0; float:left; border-right:1px solid #fff;}
+.menu_nav ul li a { display:block; margin:0; padding:14px 0 31px; width:107px; color:#000; text-decoration:none; font-size:16px; text-align:center; font-family:微软雅黑;}
+.menu_nav ul li.active a, .menu_nav ul li a:hover { color:#fff; background:#fff url(../images/menu_a.gif) no-repeat center top;}
+#user{width:100%; float:right; margin-top:5px; height:20px; text-align:right; margin-right:5px;}
+#user a{text-decoration:none; color:#ff0000;}
+#user a:hover{color:#257DC1;}
+#search{width:170px; float:right; margin-top:10px; height:30px; text-align:right;}
+#topright{width:400px; height:80px; float:right;}
+
+.login{ width:398px; float:left;border:1px solid #00A1F2}
+#loginForm INPUT { border: #a5acb2 1px solid; background: #f4f4f4; height: 30px; font-size: 20px; overflow: hidden;}
+#loginForm {  width: 398px; background: #fff; height: 310px;}
+#loginForm H3 { padding-bottom:8px; margin: 0px 0px 30px; padding-left: 20px; padding-right: 0px; background:#00A1F2; COLOR: #fff; padding-top:14px}
+#loginForm LABEL { padding:8px 40px; display:block;}
+#loginForm LABEL SPAN {DISPLAY: block; PADDING-TOP: 8px;}
+#loginForm LABEL .input {MARGIN: -25px 0px 0px 70px; WIDTH: 200px; }
+#loginForm #submit {MARGIN-TOP: 10px; PADDING-LEFT: 110px}
+#submit a{ color:#000000;}
+#loginForm .bt { width: 99px; height: 35px; background:#00A1F2; cursor:pointer; color:#ffffff;}
+.bt { width: 99px; height: 35px; background:#00A1F2; cursor:pointer; color:#ffffff; font-size:18px;}
+.youke{ margin-top:25px; margin-left:40px;}

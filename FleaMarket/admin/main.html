@@ -1,0 +1,220 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+<h1 style=" letter-spacing:15px; text-align:center; color:Red;">后台公告</h1>
+<p style=" text-indent:2em; line-height:30px;">前提声明：山东理工大学校内跳蚤市场有两个版本：一个是网兜网所建立的网兜市场，据了解其所采用的WEB技术为php+Mysql。另一个就是本站点，为山东理工大学新闻网建立，始建于2013年9月19日，完成于2013年11月12日，网站架构为类三层，采用Asp.Net(C#)+SQL Server技术。</p>
+<p style=" text-indent:2em; line-height:30px;">此跳蚤市场独立于新闻网大后台，整套代码完整，不具有依赖性，可做独立网站。网站主要为动态网页，比较消耗资源，且运行速度较慢。但其信息发布及时，无任何滞后性，后台工作人员无需在后台操作过多步骤。</p>
+<p style=" text-indent:2em; line-height:30px;">此网站主要分为两个部分，前台与后台。前台主要实现信息浏览与发布功能，后台主要实现用户管理及信息管理功能。前台对在校所有学生开放，任何人具有浏览与发布功能。但信息发布分为两种：即用户发布和游客发布。注册用户默认为网站信任人员，其享有站内所有前台权限，可以任意使用站内所提供的功能。游客具有浏览权限及部分发布功能，对其发布的二手求购和二手出售需经过后台人员审核通过后才能在前台显示。而且游客不享有空间，即无权限查看自己发布的全部已归类物品，和不具有收藏功能。后台工作人员可查看前台所有人发布的物品，并具有删除权限（注：删除需谨慎，此操作不可逆）。也可对注册用户进行管理。</p>
+<p style=" text-indent:2em; line-height:30px;">为方便网站管理，现将站内所有页面列举于下：</p>
+<p style=" text-indent:2em; line-height:30px;">到目前为止，此跳蚤站内，包含29张aspx动态页,8张ascx用户控件,9张html静态页,5张cs类库文件,1张config配置文件及若干其他页面，具体如下。</p>
+<table width="400" border="1" style="float:left; margin-left:40px;">
+  <tr>
+    <td>文件夹目录</td>
+    <td>网页名称</td>
+    <td>描述</td>
+  </tr>
+  <tr>
+    <td>admin</td>
+    <td>Admin_Login.aspx</td>
+    <td>管理员登陆</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Admin_Lost.aspx</td>
+    <td>失物管理</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Admin_Release.aspx</td>
+    <td>用户发布管理</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Admin_Reply.aspx</td>
+    <td>回复管理</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Admin_User.aspx</td>
+    <td>用户管理</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>adminDetail.aspx</td>
+    <td>查看物品详细</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>AdminIndex.html</td>
+    <td>后台主页面</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>AdminTouristRelease.aspx</td>
+    <td>游客发布管理</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>CommodityType1.aspx</td>
+    <td>添加一级分类</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>CommodityType2.aspx</td>
+    <td>添加二级分类</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>header.html</td>
+    <td>后台头部</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>main.html</td>
+    <td>后台公告</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>menu.aspx</td>
+    <td>后台左侧菜单</td>
+  </tr>
+</table>
+<table width="400" border="1" style="float:left; margin-left:30px;">
+  <tr>
+    <td>文件夹目录</td>
+    <td>网页名称</td>
+    <td>描述</td>
+  </tr>
+  <tr>
+    <td>user</td>
+    <td>ReleaseAlready.aspx</td>
+    <td>注册用户查看已发布</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>TouristRelease.aspx</td>
+    <td>游客发布</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>UserCollect.aspx</td>
+    <td>注册用户个人收藏</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>UserReg.aspx</td>
+    <td>用户注册</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>UserRelease.aspx</td>
+    <td>注册用户发布</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>UserReply.ascx</td>
+    <td>用户或游客留言</td>
+  </tr>
+  
+</table>
+<table width="400" border="1" style="float:left; margin-left:30px; margin-top:20px;">
+    <tr><td>文件夹目录</td><td>网页名称</td><td>网页描述</td></tr>
+    <tr><td>topic</td><td>Bicycle.aspx</td><td>自行车专题页面</td></tr>
+    <tr><td>App_Code</td><td>DataSql.cs</td><td>数据操作控制方法类</td></tr>
+    <tr><td></td><td>PageList.cs</td><td>所有分页的实现</td></tr>
+    <tr><td></td><td>RandImage.cs</td><td>验证码的实现</td></tr>
+    <tr><td></td><td>SqlCheck.cs，Cls.cs</td><td>SQL防注入</td></tr>
+</table>
+<table width="830" border="1" style=" float:left; margin-left:40px; margin-top:20px;">
+  <tr>
+    <td>文件目录</td>
+    <td>网页名称</td>
+    <td>描述</td>
+    <td rowspan="11" width="50px">&nbsp;</td>
+    <td>网页名称</td>
+    <td>描述</td>
+  </tr>
+  <tr>
+    <td>网站根目录</td>
+    <td>Buy.ascx</td>
+    <td>二手求购标题列表</td>
+    <td>BuyList.aspx</td>
+    <td>二手求购二级页</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Classify.aspx</td>
+    <td>分类查询结果页面</td>
+    <td>Detail.aspx</td>
+    <td>物品详细页面（三级页）</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>DetailPic.aspx</td>
+    <td>点击查看原图</td>
+    <td>footer.html</td>
+    <td>网页底部</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>head.ascx</td>
+    <td>网页头部</td>
+    <td>hot.aspx</td>
+    <td>点击率排行</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>index.aspx</td>
+    <td>网站首页</td>
+    <td>Link.html</td>
+    <td>网址链接</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Lost.ascx</td>
+    <td>失物标题列表</td>
+    <td>LostList.aspx</td>
+    <td>失物二级页面</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Mail.aspx</td>
+    <td>发送邮件</td>
+    <td>OperationSuccess.html</td>
+    <td>操作成功中转页面</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Rules.html</td>
+    <td>注册条款</td>
+    <td>SearchResult.aspx</td>
+    <td>搜索结果</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Sell.ascx</td>
+    <td>二手出售标题列表</td>
+    <td>SellList.aspx</td>
+    <td>二手出售二级页</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>CheckImage.aspx</td>
+    <td>验证码生成</td>
+    <td>SimpleSearch.ascx</td>
+    <td>搜索输入框</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Web.config</td>
+    <td>网站配置页面</td>
+    <td></td>
+    <td>其他未标出文件</td>
+    <td>若干css样式表及js文件</td>
+  </tr>
+</table>
+</body>
+</html>
